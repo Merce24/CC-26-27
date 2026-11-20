@@ -21,7 +21,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. G. ANDRES | <!--enlace-->                                                           |
 | G. L. FELIPE | <!--enlace-->                                                           |
 | G. S. PABLO | <!--enlace-->                                                           |
-| I. G. CARLOS | <!--enlace-->                                                           |
+| I. G. CARLOS | https://github.com/Merce24/CC                                                           |
 | J. C. LEONELL CESAR | <!--enlace-->                                                           |
 | L. LAMKAMI | <!--enlace-->                                                           |
 | L. C. DANIEL | <!--enlace-->                                                           |
